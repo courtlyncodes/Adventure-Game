@@ -24,7 +24,7 @@ To play the game, you need Python installed on your computer. Follow these steps
 1. Clone the Repository:
 If you are using Git, clone the repository to your local machine:
 
-git clone https://github.com/courtlyncodes/adventure-game.git
+```git clone https://github.com/courtlyncodes/adventure-game.git```
 
 2. Navigate to the Directory:
 Change into the directory where the script is located:
