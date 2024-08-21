@@ -12,7 +12,7 @@ You can choose to visit one of three areas:
 * Bar
 * Dance Floor
 
-3.Make Decisions:
+3. Make Decisions:
 Each area presents different scenarios and decisions. Choose wisely to enhance your night or face the consequences.
 
 4. Replay the Game:
